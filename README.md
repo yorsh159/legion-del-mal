@@ -8,3 +8,5 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 ## Curso de Fernando en Udemy
+
+Actualizado el 21 de Junio de 2025 por George Roa
